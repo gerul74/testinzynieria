@@ -1,2 +1,3 @@
+Dodałem brancz
 Plik zmieniony na Developer8
 To jest pierwsza wersja pliku.
